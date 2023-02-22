@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Strider\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Strider\\.nuget\\packages"
+    ]
+  }
+}
